@@ -1,0 +1,12 @@
+{
+    "require": {
+        "symfony/symfony": "^3.0",
+        "doctrine/doctrine-bundle": "^1.6",
+        "doctrine/orm": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
